@@ -3,7 +3,7 @@
 ![Maven CI](https://github.com/adobe/aem-guides-wknd/actions/workflows/maven.yml/badge.svg)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd)
 
-This is a sample Adobe Experience Manager project for a full stack Sites implementation for a fictitious lifestyle brand, WKND.
+This is a sample Adobe Experience Manager project for a full stack Sites implementation for a fictitious lifestyle brand, WKND. It's awesome!!!
 
 ![App screenshot](https://user-images.githubusercontent.com/8974514/119887685-489f7800-bee9-11eb-9db1-95c641e7c4ea.jpg)
 
